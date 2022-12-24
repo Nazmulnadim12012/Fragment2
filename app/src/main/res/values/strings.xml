@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="sachin_details">
+
+        \nName : Sachin Tendulkar
+        \nAge : 43
+        \nPhone : 01711xxxxxx
+
+    </string>
+
+    <string name="Dhoni_details">
+
+        \nName : Sachin Tendulkar
+        \nAge : 43
+        \nPhone : 01711xxxxxx
+
+    </string>
+
+    <string name="Messi_details">
+
+        \nName : Lionel Messi
+        \nAge : 43
+        \nPhone : 01711xxxxxx
+
+    </string>
+
+    <string name="Ronaldo_details">
+
+        \nName : Cristiano Ronaldo
+        \nAge : 43
+        \nPhone : 01711xxxxxx
+
+    </string>
+</resources>
